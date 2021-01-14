@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Auto]">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="test(failed)">
+    <classes>
+      <class name="Tool.OpenBrowser">
+        <methods>
+          <include name="openUrl"/>
+          <include name="loginOut"/>
+          <include name="load"/>
+          <include name="Incar"/>
+          <include name="searchGoods"/>
+        </methods>
+      </class> <!-- Tool.OpenBrowser -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [Auto] -->

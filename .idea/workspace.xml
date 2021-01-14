@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1431d7ff-b092-4d3c-9cc6-1f55b7e26d3c" name="Default Changelist" comment="selenium">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AutoTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test Results - E__AutoTest_src_testng_xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/001.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Active/Action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Data/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Data/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Data/DataProviderMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Data/Excel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Data/Goods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Data/Pay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Data/Tool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Data/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tool/OpenBrowser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Tool/ReadExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/listener/ITestListenerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/listener/ReportNGImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/AutoTest-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Active/Action.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Data/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Data/Browser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Data/DataProviderMethod.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Data/Excel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Data/Goods.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Data/Pay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Data/Tool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Data/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Tool/OpenBrowser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Tool/ReadExcel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/listener/ITestListenerImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/listener/ReportNGImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Auto/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Auto/test.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Auto/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/html/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/html/overview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/html/reportng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/html/reportng.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/html/sorttable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/html/suite1_test1_results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/html/suites.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-Tool.OpenBrowser.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Auto/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Auto/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Auto/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Auto/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Auto/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Auto/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Auto/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Auto/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Auto/test.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Auto/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Auto/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/xml/Tool.OpenBrowser_results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/velocity.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\AutoTest\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Warehouse" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../下载/学习/jar/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="E:\下载\学习\jar\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VPcfyozpSeOpJAjcDw6PA9vExR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.43103448" />
+    <property name="settings.editor.selected.configurable" value="profiler.jvm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Listener" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.E:/AutoTest/src/testng.xml">
+    <configuration name="Test Results - E__AutoTest_src_testng_xml.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AutoTest/Test Results - E__AutoTest_src_testng_xml.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AutoTest/test-output/html/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AutoTest/test-output/Auto/test.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="E:/AutoTest/src/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OpenBrowser.openUrl" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tool" />
+      <option name="MAIN_CLASS_NAME" value="Tool.OpenBrowser" />
+      <option name="METHOD_NAME" value="openUrl" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.test.html" />
+      <item itemvalue="JavaScript Debug.Test Results - E__AutoTest_src_testng_xml.html" />
+      <item itemvalue="TestNG.E:/AutoTest/src/testng.xml" />
+      <item itemvalue="TestNG.OpenBrowser.openUrl" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.E:/AutoTest/src/testng.xml" />
+        <item itemvalue="JavaScript Debug.Test Results - E__AutoTest_src_testng_xml.html" />
+        <item itemvalue="TestNG.OpenBrowser.openUrl" />
+        <item itemvalue="JavaScript Debug.test.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1431d7ff-b092-4d3c-9cc6-1f55b7e26d3c" name="Default Changelist" comment="" />
+      <created>1577158277099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577158277099</updated>
+      <workItem from="1577158284406" duration="16633000" />
+      <workItem from="1577234581553" duration="9671000" />
+      <workItem from="1577322706263" duration="13435000" />
+      <workItem from="1577407892856" duration="22549000" />
+      <workItem from="1577499903697" duration="456000" />
+      <workItem from="1577500907316" duration="3527000" />
+      <workItem from="1577669023600" duration="20001000" />
+      <workItem from="1577753062049" duration="5102000" />
+      <workItem from="1577949812246" duration="4644000" />
+      <workItem from="1578012452964" duration="8174000" />
+      <workItem from="1578118783075" duration="6414000" />
+      <workItem from="1578293355275" duration="1198000" />
+      <workItem from="1578365236762" duration="9000" />
+      <workItem from="1586307038918" duration="634000" />
+      <workItem from="1586957389721" duration="283000" />
+      <workItem from="1600755405160" duration="5605000" />
+      <workItem from="1606358568008" duration="639000" />
+      <workItem from="1606810985265" duration="21000" />
+      <workItem from="1610524754017" duration="5499000" />
+      <workItem from="1610586144985" duration="13616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="selenium" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Project_Structure" timestamp="1610525535517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1610525535517" />
+    <state x="619" y="21" key="CommitChangelistDialog2" timestamp="1610612482153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="619" y="21" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1610612482153" />
+    <state x="549" y="157" key="FileChooserDialogImpl" timestamp="1610612283700">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610612283700" />
+    <state x="641" y="308" width="273" height="207" key="Github.ShareDialog" timestamp="1610610940144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="641" y="308" width="273" height="207" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1610610940144" />
+    <state width="1493" height="264" key="GridCell.Tab.0.bottom" timestamp="1610593253715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610593253715" />
+    <state width="1493" height="264" key="GridCell.Tab.0.center" timestamp="1610593253715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1610593253715" />
+    <state width="1493" height="264" key="GridCell.Tab.0.left" timestamp="1610593253715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1610593253715" />
+    <state width="1493" height="264" key="GridCell.Tab.0.right" timestamp="1610593253715">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="264" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1610593253715" />
+    <state width="1493" height="230" key="GridCell.Tab.1.bottom" timestamp="1610590889248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="230" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1610590889248" />
+    <state width="1493" height="230" key="GridCell.Tab.1.center" timestamp="1610590889248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="230" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1610590889248" />
+    <state width="1493" height="230" key="GridCell.Tab.1.left" timestamp="1610590889248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="230" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1610590889248" />
+    <state width="1493" height="230" key="GridCell.Tab.1.right" timestamp="1610590889248">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="230" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1610590889248" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1610611814699">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1610611814699" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tool/ReadExcel.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tool/ReadExcel.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Data/Tool.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Data/User.java</url>
+          <line>132</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Data/User.java</url>
+          <line>112</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
