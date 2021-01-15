@@ -1,7 +1,5 @@
 package Data;
 
-import java.util.List;
-
 public class Excel {
     //浏览器
     private String borwser;

@@ -51,7 +51,7 @@ public class ReadExcel {
         List<Address> addressList = new ArrayList<>();
         List<Pay> payList = new ArrayList<>();
         //创建文件
-        File excelFile = new File("E:\\AutoTest\\src\\001.xlsx");
+        File excelFile = new File("E:\\AutoTest\\src\\main\\resources\\001.xlsx");
         //创建XSSFWorkbook对象
         XSSFWorkbook wb = null;
         try {
