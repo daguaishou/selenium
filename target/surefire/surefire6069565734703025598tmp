@@ -1,5 +1,5 @@
 #surefire
-#Wed Jan 20 16:51:43 CST 2021
+#Thu Jan 21 14:54:42 CST 2021
 classPathUrl.61=E\:\\\u5B66\u4E60\\maven\\repos\\ch\\qos\\logback\\logback-core\\1.2.3\\logback-core-1.2.3.jar
 classPathUrl.60=E\:\\\u5B66\u4E60\\maven\\repos\\commons-collections\\commons-collections\\3.2.2\\commons-collections-3.2.2.jar
 testFwJarClassifier=jdk15
@@ -76,7 +76,7 @@ classPathUrl.17=E\:\\\u5B66\u4E60\\maven\\repos\\org\\apache\\commons\\commons-e
 classPathUrl.16=E\:\\\u5B66\u4E60\\maven\\repos\\cglib\\cglib-nodep\\3.2.4\\cglib-nodep-3.2.4.jar
 classPathUrl.15=E\:\\\u5B66\u4E60\\maven\\repos\\org\\seleniumhq\\selenium\\selenium-support\\3.4.0\\selenium-support-3.4.0.jar
 classPathUrl.14=E\:\\\u5B66\u4E60\\maven\\repos\\org\\seleniumhq\\selenium\\selenium-safari-driver\\3.4.0\\selenium-safari-driver-3.4.0.jar
-testSuiteXmlFiles0=E\:\\AutoTest\\src\\main\\testng.xml
+testSuiteXmlFiles0=E\:\\AutoTest\\src\\main\\resources\\testng.xml
 classPathUrl.13=E\:\\\u5B66\u4E60\\maven\\repos\\org\\seleniumhq\\selenium\\selenium-remote-driver\\3.4.0\\selenium-remote-driver-3.4.0.jar
 classPathUrl.12=E\:\\\u5B66\u4E60\\maven\\repos\\org\\seleniumhq\\selenium\\selenium-opera-driver\\3.4.0\\selenium-opera-driver-3.4.0.jar
 useManifestOnlyJar=true
