@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1431d7ff-b092-4d3c-9cc6-1f55b7e26d3c" name="Default Changelist" comment="selenium">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/selenium.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Tool/OpenBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tool/OpenBrowser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tool/ReadExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tool/ReadExcel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Picture/登录成功.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/Picture/登录成功.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Picture/进入进货单.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/Picture/进入进货单.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/Picture/退出成功.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/Picture/退出成功.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Tool/ReadExcel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tool/ReadExcel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/velocity.log" beforeDir="false" afterPath="$PROJECT_DIR$/velocity.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +46,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="E:\Warehouse" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../下载/学习/jar/apache-maven-3.5.2" />
+        <option name="mavenHome" value="E:/下载/学习/jar/apache-maven-3.5.2" />
         <option name="userSettingsFile" value="E:\下载\学习\jar\settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -45,13 +57,16 @@
     </option>
   </component>
   <component name="ProjectId" id="1VPcfyozpSeOpJAjcDw6PA9vExR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -66,14 +81,11 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.43103448" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\AutoTest\src\main\resources" />
-      <recent name="E:\AutoTest\src\main" />
-      <recent name="E:\AutoTest" />
-      <recent name="E:\AutoTest\src" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="listener" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
@@ -81,8 +93,17 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Listener" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\AutoTest\src\main\resources" />
+      <recent name="E:\AutoTest\src\main" />
+      <recent name="E:\AutoTest" />
+      <recent name="E:\AutoTest\src" />
+    </key>
   </component>
   <component name="RunManager" selected="TestNG.E:/AutoTest/src/main/resources/testng.xml">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/selenium/test-output/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AutoTest/target/surefire-reports/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -106,24 +127,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="E:/AutoTest/src/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutoTest" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/testng.xml" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="GROUP_NAME" value="" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <option name="PARAMETERS" value="" />
-      <option name="OUTPUT_DIRECTORY" value="" />
-      <option name="USE_DEFAULT_REPORTERS" value="true" />
-      <option name="PROPERTIES_FILE" value="" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="E:/AutoTest/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutoTest" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -136,7 +139,7 @@
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.index.html" />
-      <item itemvalue="TestNG.E:/AutoTest/src/testng.xml" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
       <item itemvalue="TestNG.E:/AutoTest/src/main/resources/testng.xml" />
       <item itemvalue="TestNG.E:/AutoTest/testng.xml" />
       <item itemvalue="TestNG.E:/AutoTest/src/main/testng.xml" />
@@ -144,10 +147,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.E:/AutoTest/src/main/resources/testng.xml" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="TestNG.E:/AutoTest/src/main/testng.xml" />
         <item itemvalue="TestNG.E:/AutoTest/testng.xml" />
-        <item itemvalue="TestNG.E:/AutoTest/src/testng.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +201,8 @@
       <workItem from="1611190326582" duration="14942000" />
       <workItem from="1613982683270" duration="1474000" />
       <workItem from="1614042471162" duration="511000" />
-      <workItem from="1614827961450" duration="582000" />
+      <workItem from="1614827961450" duration="4943000" />
+      <workItem from="1614838721520" duration="1143000" />
     </task>
     <servers />
   </component>
@@ -206,6 +210,7 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="selenium" />
     <option name="LAST_COMMIT_MESSAGE" value="selenium" />
   </component>
@@ -238,22 +243,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="641" y="308" width="273" height="207" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1610610940144" />
-    <state width="1493" height="143" key="GridCell.Tab.0.bottom" timestamp="1614043057766">
+    <state width="1493" height="157" key="GridCell.Tab.0.bottom" timestamp="1614839350352">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614043057766" />
-    <state width="1493" height="143" key="GridCell.Tab.0.center" timestamp="1614043057766">
+    <state width="1493" height="157" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614839350352" />
+    <state width="1493" height="157" key="GridCell.Tab.0.center" timestamp="1614839350352">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614043057766" />
-    <state width="1493" height="143" key="GridCell.Tab.0.left" timestamp="1614043057766">
+    <state width="1493" height="157" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614839350352" />
+    <state width="1493" height="157" key="GridCell.Tab.0.left" timestamp="1614839350352">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614043057766" />
-    <state width="1493" height="143" key="GridCell.Tab.0.right" timestamp="1614043057766">
+    <state width="1493" height="157" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614839350352" />
+    <state width="1493" height="157" key="GridCell.Tab.0.right" timestamp="1614839350352">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="143" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614043057766" />
+    <state width="1493" height="157" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614839350352" />
     <state width="1493" height="238" key="GridCell.Tab.1.bottom" timestamp="1611221579591">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -270,10 +275,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="238" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1611221579591" />
-    <state x="498" y="0" key="SettingsEditor" timestamp="1611211695958">
+    <state x="498" y="0" key="SettingsEditor" timestamp="1614839901042">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1611211695958" />
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1614839901042" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -305,7 +310,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Tool/OpenBrowser.java</url>
-          <line>18</line>
+          <line>19</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">

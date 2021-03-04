@@ -48,7 +48,7 @@ public class ReadExcel {
     //读取.xlsx文件
     public Excel read() {
         //创建文件
-        File excelFile = new File("E:\\AutoTest\\src\\main\\resources\\001.xlsx");
+        File excelFile = new File("E:\\AutoTest\\selenium\\src\\main\\resources\\001.xlsx");
         //创建XSSFWorkbook对象
         XSSFWorkbook wb = null;
         try {
