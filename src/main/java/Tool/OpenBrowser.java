@@ -2,7 +2,6 @@ package Tool;
 
 import Data.Browser;
 import Data.Excel;
-import Data.User;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.Test;
 
