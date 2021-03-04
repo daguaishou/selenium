@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1431d7ff-b092-4d3c-9cc6-1f55b7e26d3c" name="Default Changelist" comment="selenium">
-      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/selenium.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/selenium.iml" afterDir="false" />
+    <list default="true" id="1431d7ff-b092-4d3c-9cc6-1f55b7e26d3c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tool/OpenBrowser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tool/OpenBrowser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tool/ReadExcel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Tool/ReadExcel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Picture/登录成功.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/Picture/登录成功.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Picture/进入进货单.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/Picture/进入进货单.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Picture/退出成功.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/Picture/退出成功.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Tool/ReadExcel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Tool/ReadExcel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/testng.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/velocity.log" beforeDir="false" afterPath="$PROJECT_DIR$/velocity.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,8 +188,16 @@
       <workItem from="1613982683270" duration="1474000" />
       <workItem from="1614042471162" duration="511000" />
       <workItem from="1614827961450" duration="4943000" />
-      <workItem from="1614838721520" duration="1143000" />
+      <workItem from="1614838721520" duration="1646000" />
     </task>
+    <task id="LOCAL-00001" summary="selenium">
+      <created>1614839946305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614839946305</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,18 +225,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="553" y="301" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1610695302715" />
-    <state x="619" y="21" key="CommitChangelistDialog2" timestamp="1610612482153">
+    <state x="619" y="21" key="CommitChangelistDialog2" timestamp="1614839944951">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="619" y="21" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1610612482153" />
+    <state x="619" y="21" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1614839944951" />
     <state x="549" y="157" key="FileChooserDialogImpl" timestamp="1611211688954">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="157" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611211688954" />
-    <state x="641" y="308" width="273" height="207" key="Github.ShareDialog" timestamp="1610610940144">
+    <state x="641" y="308" width="273" height="263" key="Github.ShareDialog" timestamp="1614840516001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="641" y="308" width="273" height="207" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1610610940144" />
+    <state x="641" y="308" width="273" height="263" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1614840516001" />
     <state width="1493" height="157" key="GridCell.Tab.0.bottom" timestamp="1614839350352">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
